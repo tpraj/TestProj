@@ -2,6 +2,6 @@ package com.jda;
  
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello modified world");
+    System.out.println("Hello world.");
   }
 }
