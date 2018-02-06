@@ -2,6 +2,6 @@ package com.jda;
  
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("This is a test program only.");
+    System.out.println("Now test automatic triggering jenkin build once checkin happens");
   }
 }
